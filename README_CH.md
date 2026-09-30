@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/YOUR_USERNAME/docx_to_md/releases)
 
-[English](README_EN.md) | 简体中文
+[English](README.md) | **简体中文**
 
 一个简单高效的批量转换工具，可以将文件夹中的所有Word文档(.docx)转换为Markdown文件(.md)。
 
